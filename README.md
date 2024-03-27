@@ -1,6 +1,6 @@
 # Tranformer Model
 ## Sources
-based on Andrej Karpathy's model using his [Video on Youtube] (https://www.youtube.com/watch?v=kCc8FmEb1nY&pp=ygUOY3JlYXRlIGNoYXRncHQ%3D)
+based on Andrej Karpathy's model using his [Video on Youtube](https://www.youtube.com/watch?v=kCc8FmEb1nY&pp=ygUOY3JlYXRlIGNoYXRncHQ%3D)
 ## Comments
 The code includes comments and notes on how the model operates
 ## Running the code
